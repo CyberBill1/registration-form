@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-  $to = "your-email@example.com"; // Replace with your email address
-  $subject = "New Form Submission";
+  $to = "engrifeanyi@gmail.com"; // Replace with your email address
+  $subject = "New Resgistration";
   
   // Retrieve form data
   $firstName = $_POST['first-name'];
